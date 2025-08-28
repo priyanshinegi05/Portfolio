@@ -1,6 +1,6 @@
 <h2 align="center">
   Priyanshi Negi | Portfolio Website - v2.0<br/>
-  <a href="https://priyanshi-portfolio.vercel.app/" target="_blank">priyanshi.tech</a>
+  <a href="https://portfolio-otk3o98ks-priyanshi-negi-s-projects.vercel.app/" target="_blank">priyanshi.tech</a>
 </h2>
 
 <div align="center">
@@ -20,11 +20,11 @@
 </center>
 
 <h3 align="center">
-    🔹
-    <a href="https://github.com/priyanshinegi05/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/priyanshinegi05/Portfolio/issues">Request Feature</a>
+  🔹 <a href="https://github.com/priyanshinegi05/Portfolio/issues/new?labels=bug">Report Bug</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  🔹 <a href="https://github.com/priyanshinegi05/Portfolio/issues/new?labels=enhancement">Request Feature</a>
 </h3>
+
 
 ## TL;DR
 
@@ -34,7 +34,7 @@ If you do, giving a ⭐ would mean a lot! 💜
 
 ## Built With
 
-My portfolio <a href="https://priyanshi-portfolio.vercel.app/" target="_blank">priyanshi.tech</a> features some of my projects, skills, and interests in **Full-Stack Development, DevOps, and Global Tech/Geopolitics**.  
+My portfolio <a href="https://portfolio-otk3o98ks-priyanshi-negi-s-projects.vercel.app/" target="_blank">priyanshi.tech</a> features some of my projects, skills, and interests in **Full-Stack Development, DevOps, and Global Tech/Geopolitics**.  
 
 Technologies used:  
 
